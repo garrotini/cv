@@ -38,10 +38,18 @@ fun/random facts:
 
 ---
 
+## Banner
+
+Ready-to-upload image in this repo: `linkedin_banner.jpg` (1586 × 396 px — correct
+LinkedIn banner format). Upload it directly as your profile background.
+
+---
+
 ## Action items
 
 - [ ] Paste headline into LinkedIn
 - [ ] Paste About into LinkedIn
+- [ ] Upload banner (`linkedin_banner.jpg`)
 - [ ] Add skills list (Linux, Docker, SSH, VPN, UFW, systemd, shell scripting, Python, C, C++, Git, Tmux, Vim, Networking, Self-Hosting, Automation, Rsync, Podman, Terraform, Kubernetes + soft skills)
 - [ ] Featured section: pin set_deb12, minishell, 42_CPP repos + CV PDF link
 - [ ] Open to Work: DevOps Engineer / Cloud Engineer / SRE — Lisbon, remote, EU

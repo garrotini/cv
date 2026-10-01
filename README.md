@@ -9,6 +9,8 @@ Output files use a stable name: `CV_Carlos_Garrote` (link-safe for sharing).
 - `CV_Carlos_Garrote.pdf` — output, ATS-safe (`pdfgentounicode`)
 - `Makefile` — build script
 - `TODO.md` — open career/CV improvements
+- `LINKEDIN.md` — LinkedIn headline/About draft synced with the CV
+- `linkedin_banner.jpg` — LinkedIn banner image (1586 × 396)
 
 ## Update workflow
 
