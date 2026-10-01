@@ -1,12 +1,12 @@
 # CV — Carlos Garrote (DevOps / Cloud / SRE)
 
-Resume files dated by build day: `CV_CarlosGarrote_YYYYMMDD`.
+Output files use a stable name: `CV_Carlos_Garrote` (link-safe for sharing).
 
 ## Files
 
-- `CV_CarlosGarrote_YYYYMMDD.md` — **source of truth** (edit THIS first)
+- `CV_Carlos_Garrote.md` — **source of truth** (edit THIS first)
 - `main.tex` — single-page print rendering (Jake's Resume template, A4)
-- `CV_CarlosGarrote_YYYYMMDD.pdf` — output, ATS-safe (`pdfgentounicode`)
+- `CV_Carlos_Garrote.pdf` — output, ATS-safe (`pdfgentounicode`)
 - `Makefile` — build script
 - `TODO.md` — open career/CV improvements
 
@@ -14,7 +14,7 @@ Resume files dated by build day: `CV_CarlosGarrote_YYYYMMDD`.
 
 1. Edit the `.md` (source of truth)
 2. Mirror the change in `main.tex` (condense if needed to keep 1 page)
-3. `make pdf` — builds `CV_CarlosGarrote_<today>.pdf`, cleans aux files
+3. `make pdf` — rebuilds `CV_Carlos_Garrote.pdf`, cleans aux files
 
 ## Rules
 

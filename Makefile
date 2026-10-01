@@ -1,4 +1,4 @@
-PDF_NAME := CV_CarlosGarrote_$(shell date +%Y%m%d)
+PDF_NAME := CV_Carlos_Garrote
 
 pdf: main.tex
 	pdflatex -jobname=$(PDF_NAME) main.tex
