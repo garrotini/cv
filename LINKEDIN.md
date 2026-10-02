@@ -25,7 +25,7 @@ Core skills: Linux, Docker, SSH, VPN (Tailscale), UFW firewall, systemd, shell s
 
 Currently learning: Terraform, Kubernetes, Podman, cloud providers (evaluating AWS vs Azure)
 
-Open to DevOps, Cloud Engineering and SRE opportunities — let's connect: cgarrote92@gmail.com
+Open to DevOps, Cloud Engineering and SRE opportunities — let's connect: cgarrote92@gmail.com | cgarrote.cc
 
 fun/random facts:
 

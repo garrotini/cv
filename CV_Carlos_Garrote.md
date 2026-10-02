@@ -2,7 +2,7 @@
 
 **Cloud & Infrastructure Engineer — DevOps / SRE trajectory**
 
-cgarrote92@gmail.com | github.com/garrotini | linkedin.com/in/garrotini | Lisbon, Portugal
+cgarrote92@gmail.com | cgarrote.cc | github.com/garrotini | linkedin.com/in/garrotini | Lisbon, Portugal
 
 ---
 
